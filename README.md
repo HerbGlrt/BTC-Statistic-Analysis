@@ -31,13 +31,6 @@ In this GitHub repository, we will apply statistical analysis techniques learned
 2. **Impact of Other Markets on Cryptocurrency Using the VIX Indicator:**
    - We will investigate how other financial markets impact cryptocurrency prices, focusing on the VIX (Volatility Index) as a key indicator.
 
-## Structure of the Repository
-
-- `data/`: Contains datasets used for the analysis.
-- `scripts/`: Includes scripts for data processing and statistical analysis.
-- `notebooks/`: Jupyter notebooks with detailed analysis and visualizations.
-- `results/`: Stores the results of our analysis, including charts and summary reports.
-
 ## Useful Links
 
 - [Colab Notebook](https://colab.research.google.com/drive/1AcLCxJKRqrFvw9l35EZ1EjNfwaxeWoeW?usp=sharing)
